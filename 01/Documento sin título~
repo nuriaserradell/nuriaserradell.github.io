@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style = "text-align:center;"> Rodrigo's Web Page</h1>
+<p> resume</p>
+<img src = "photo.jpg" alt = "my photo" width = "130" height ="142">
+
+
+<h2 style = "color:blue;"> Rodrigo Schaefer</h2>
+<p>PhD student (Universitat Polit\`{e}cnica de Catalunya)</p>
+
+<h3> Address: </h3>
+<p title = "Address"> Building H <br>
+floor 3, office  3.10, Av. Diagona, 647 <br>
+08028 Barcelona <br> 
+Spain  <br></p>
+
+<h3> Email: </h3>
+<p>rodrigo.schaefer@upc.edu</p>
+
+<h3> Personal contacts</h3>
+<a href="https://twitter.com/rgschaefer_"> Twitter,</a>
+<a href = "https://www.researchgate.net/profile/Rodrigo_Schaefer"> Researchgate,</a>
+<a href = "https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-schaefer-30677666/en"> Linkedin,</a>
+<a href = "https://github.com/schaeferrodrigo"> GitHub. </a>
+<hr>
+
+<h3> Degrees</h3>
+<p>Master in Science - Universidade Federal do Rio de Janeiro</p>
+<p>Diploma in Mathematics - Universidade Federal do Rio de Janeiro</p>
+<hr>
+
+<h3> Research interest</h3>
+<hr>
+
+<h3> Papers </h3>
+<hr>
+
+<h3>Presentations</h3>
+<hr>
+
+<h3>Teaching</h3>
+<hr>
+</body>
+</html>
